@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ukwntb0os3mxhmp4?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/dnd-homework2-ajsb)
 ### Modern Image Manager
 
 #### Легенда
